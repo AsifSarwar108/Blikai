@@ -1,5 +1,5 @@
 # Blikai
-Blikai
+<a href="https://www.blikai.com/">Blikai</a>
 Blikai's versatile platform caters to a diverse range of industries seeking to optimize their operations and enhance customer satisfaction. 
 Industries that can significantly benefit from implementing Blikai's innovative solutions include logistics and delivery, where the platform helps streamline delivery operations, optimize routes, and provide real-time tracking for packages and shipments. 
 Service providers, such as field service technicians, contractors, and maintenance teams, benefit from improved scheduling, dispatching, and communication tools offered by Blikai. 
